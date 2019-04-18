@@ -1,0 +1,11 @@
+{
+"companyName": "RobStorm",
+"productName": "BreatheApp",
+"dataUrl": "Breathe.data.unityweb",
+"asmCodeUrl": "Breathe.asm.code.unityweb",
+"asmMemoryUrl": "Breathe.asm.memory.unityweb",
+"asmFrameworkUrl": "Breathe.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
